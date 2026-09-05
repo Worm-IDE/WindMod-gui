@@ -1,22 +1,4 @@
 
-<h1 align="center">
-  Scrooch 3
-</h1>
-
-<p align="center">
-  An Easy Framework to make cool Scratch Mods!
-</p>
-
-<p align="center">
-<a href="https://github.com/scrooch-project/Scrooch3/commits" target="_blank" rel="noopener noreferrer">
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/scrooch-project/Scrooch3?style=for-the-badge&logo=github&logoColor=%23ffffff&label=Commits">
-</a>
-<a href="https://github.com/scrooch-project/Scrooch3/blob/main/LICENSE" target="_blank" rel="noopener noreferrer">
-  <img alt="GitHub License" src="https://img.shields.io/github/license/scrooch-project/Scrooch3?style=for-the-badge&logo=cloudera&logoColor=%23ffffff&label=License&color=green">
-</a>
-
-</p>
-
 
 ## Features
 
@@ -28,7 +10,7 @@
 
 Get Started right now by going to the Documentation:
 
-[Scrooch 3 Documentation](https://github.com/scrooch-project/Scrooch3/wiki)
+[Documentation](https://github.com/scrooch-project/Scrooch3/wiki)
 
 ## Live Demo
 
